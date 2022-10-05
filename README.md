@@ -205,9 +205,18 @@ A GitHub conflict is when people make changes to the same area or line in a file
 # Created by
 Created with &#129293; by <a href="https://github.com/KapilKumar7" target="_blank">Kapil Kumar</a>
 
-<b>Follow <a href="https://github.com/KapilKumar7" target="_blank">Kapil Kumar</a> for more such contents. 
-<br> 🇹​​​​​🇭​​​​​🇦​​​​​🇳​​​​​🇰​​​​​ 🇾​​​​​🇴​​​​​🇺​​​​​ for visiting...</b> 
+<b>Follow <a href="https://github.com/KapilKumar7" target="_blank">Kapil Kumar</a> for more creative things. 
+
 <br>
+
+***
+## Contributors ✨
+
+Thanks to all wonderful people -
+
+<a href = "https://github.com/KapilKumar7/Hacktoberfest2022-masai/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=KapilKumar7/Hacktoberfest2022-masai"/>
+</a>
 
 
  
