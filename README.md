@@ -6,7 +6,7 @@
 
 What is it? Click on the poster below to watch the video for more details 📽
 
-[![Watch The Video](/Hacktoberfest2022-masai/Resources/Hacktober2022.PNG)](https://hacktoberfest.com/)
+[![Watch The Video](https://user-images.githubusercontent.com/100344844/193969307-16d1b675-ba62-4eac-bd5c-3172f99034ec.PNG)](https://hacktoberfest.com/)
 
 ## Register for Hacktober2022 event - https://hacktoberfest.com/
 
@@ -19,7 +19,7 @@ Repository for you to raise a Pull Request to **practice** open-source! 🎉
 
 ### Option 1. Complete this process in Github (in your browser)
 
-[![Watch this video](/Hacktoberfest2022-masai/Resources/flowchart.png)](https://hacktoberfest.com/participation/#beginner-resources)
+[![Watch this video](https://user-images.githubusercontent.com/100344844/193969323-ce5b871f-f484-47bb-9231-c47746256573.png)](https://hacktoberfest.com/participation/#beginner-resources)
 
 1. Fork the project:
 
