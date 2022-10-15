@@ -6,7 +6,7 @@
 
 What is it? Click on the poster below to watch the video for more details 📽
 
-[![Watch The Video](https://user-images.githubusercontent.com/100344844/193969307-16d1b675-ba62-4eac-bd5c-3172f99034ec.PNG)](https://hacktoberfest.com/)
+[![Watch The Video](https://user-images.githubusercontent.com/100344844/193969307-16d1b675-ba62-4eac-bd5c-3172f99034ec.PNG)](https://www.linkedin.com/feed/update/urn:li:activity:6985569051586490368/)
 
 ## Register for Hacktober2022 event - https://hacktoberfest.com/
 
