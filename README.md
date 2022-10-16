@@ -224,6 +224,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - ### **W**
 - ### **X**
 - ### **Y**
+  - [Yuji Itadori](https://github.com/905Yuji-itadori)
 - ### **Z**
 
 
