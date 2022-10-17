@@ -201,6 +201,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Logadheep](https://github.com/Logadheep)
 - ### **M**
   - [Michael Giardina](https://github.com/giardim)
+  - [Mallikarjun Rayar](https://github.com/manojrayar)
 - ### **N**
   - [Nikita Mahamuni](https://github.com/Nikita0509)
   - [Nishant](https://github.com/Nishant50)  
