@@ -200,8 +200,8 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - ### **M**
   - [Michael Giardina](https://github.com/giardim)
 - ### **N**
-  - [Nishant](https://github.com/Nishant50)
   - [Nikita Mahamuni](https://github.com/Nikita0509)
+  - [Nishant](https://github.com/Nishant50)  
 - ### **O**
   - [Olga Mozejko](https://github.com/OlgaMozejko)
 - ### **P** 
