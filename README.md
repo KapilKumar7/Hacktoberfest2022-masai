@@ -221,7 +221,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - ### **U**
   - [Ujjwal Jha](https://github.com/i-ujjwaljha)
 - ### **V**
-- [Vikash Kumar](https://github.com/Vikash0122)
+  - [Vikash Kumar](https://github.com/Vikash0122)
 - ### **W**
 - ### **X**
 - ### **Y**
