@@ -23,12 +23,12 @@ Repository for you to raise a Pull Request to **practice** open-source! 🎉
 
 1. Fork the project:
 
-- Click the gray `Fork` button in the top right of this page. This creates _your_ copy of the project and saves it as a new repository in your Github account
+- Click the gray `Fork` button at the top right of this page. This creates _your_ copy of the project and saves it as a new repository in your GitHub account
 
 2. Create a New Branch:
 
 - On your new repository's page, click the gray `main` button in the upper left to reveal a dropdown menu.
-- Enter the name of your new branch in the text box. (Branch names usually make a reference to what is being changed. Example: `nameAdd`).
+- Enter the name of your new branch in the text box. (Branch names usually refer to what is being changed. Example: `nameAdd`).
 - Click on `Create branch <new branch name>` and this will automatically take you to your new branch. You can make edits on the main branch, but this may cause issues down the line. The best practice is to create a new branch for each separate issue you work on. That way your `main` branch remains in sync with Eddie's `main` branch.
 
 3. Edit:
@@ -48,9 +48,9 @@ You can ask questions by raising an [issue](https://github.com/KapilKumar7/Hackt
 ### Option 2. Complete this process on your computer (locally)
 
 - Fork the project:
-  Click the gray `Fork` button in the top right of this page. This creates _your_ copy of the project and saves it as a new repository in your Github account
+  Click the gray `Fork` button at the top right of this page. This creates _your_ copy of the project and saves it as a new repository in your GitHub account
 
-- Click on the green `Code` button, then either the HTTPS or SSH option and, click the icon to copy the URL. Now you have a copy of the project. Thus, you can play around with it locally on your computer.
+- Click on the green `Code` button, then either the HTTPS or SSH option, and click the icon to copy the URL. Now you have a copy of the project. Thus, you can play around with it locally on your computer.
 
 - Run the following commands into a terminal window (Command Prompt, Powershell, Terminal, Bash, ZSH). Do this to download the forked copy of this repository to your computer.
 
@@ -126,7 +126,7 @@ or
 ```bash
 ERROR: Permission to KapilKumar7/Hacktoberfest2022-masai.git denied to <your-github-username>.
 fatal: Could not read from remote repository.
-Please make sure you have the correct access rights and the repository exists.
+Please make sure you have the correct access rights and that the repository exists.
 ```
 
 - On the GitHub website, navigate to your forked repo - on the top of the files section, you'll notice a new section containing a `Compare & Pull Request` button!
@@ -168,8 +168,10 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - ### **A**
   - [Aakash](https://github.com/aakash1233333)
+  - [Aditya](https://github.com/AdityaPote)
   - [Aditya Raj](https://github.com/Aditya2254)
   - [Aman Jain](https://github.com/amannayak0007)
+  - [Amit Kumar](https://github.com/amitsvg)
   - [Anand R P](https://github.com/AnandRP2030)
   - [Andres Acevedo](https://github.com/andace)
   - [Ankit Raj](https://github.com/ankytastic)
@@ -180,7 +182,9 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - ### **B** 
 - ### **C**
   - [Christover R Moa](https://github.com/tophermoa)
+  - [cocomo](https://github.com/cocomo29)
 - ### **D**  
+  - [Dakshesh Apkare](https://github.com/Daksheshapkare)
 - ### **E**  
 - ### **F** 
   - [Flourish Oke](https://github.com/TimTemi)
@@ -193,37 +197,50 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - ### **I**
   - [Ismeet Kour Chhabda](https://github.com/ismeet010)
 - ### **J**
+  - [Jatin Kansal](https://github.com/jatinkansal2005)
   - [JoaoVictorG](https://github.com/JoaoVictorG)
+  
 - ### **K**   
   - [Kapil Kumar](https://github.com/KapilKumar7)
   - [Kpil Kumar](https://github.com/KpilKumar)
 - ### **L**
   - [Logadheep](https://github.com/Logadheep)
 - ### **M**
-  - [Michael Giardina](https://github.com/giardim)
   - [Mahendra](https://github.com/mahendra2217)
+  - [Mallikarjun Rayar](https://github.com/manojrayar)  
+  - [Michael Giardina](https://github.com/giardim)
+  - [Muhammad Immad](https://github.com/itsimmad)
+
 - ### **N**
   - [Nikita Mahamuni](https://github.com/Nikita0509)
   - [Nishant](https://github.com/Nishant50)  
+  - [Neerav Parakh](https://github.com/NeeravParakh) 
+
 - ### **O**
   - [Olga Mozejko](https://github.com/OlgaMozejko)
 - ### **P** 
+  - [Pavan Kulkarni](https://github.com/pavandeveloperr)
   - [Pratyaksha Newalkar](https://github.com/Pratyaksha462)
   - [Prerna Rathore](https://github.com/PrernaRathore10)
   - [Priyanshu Jaiswal](https://github.com/jpriyanshu1406)
-  - [Pronajit Dey](https://github.com/pronajitdey)
+  - [Pronajit Dey](https://github.com/pronajitdey) 
 - ### **Q**
 - ### **R**
   - [Riya Tyagi](https://github.com/riyatyag-6)
+  - [Rohan Gope](https://github.com/Darkrider0007)
 - ### **S**
   - [Sanjay](https://github.com/sanjayk0508)
   - [Shivangi Singh](https://github.com/shivangi1217) 
   - [Silky Modi](https://github.com/silky-modi22) 
-  - [Soham Dey](https://github.com/IamSohamDey) 
+  - [Soham Dey](https://github.com/IamSohamDey)
+  - [Soumik Seal](https://github.com/Soumik8114)
+  - [Swadesh Pal](https://github.com/Swadeshit27)
 - ### **T**
+  - [Thomps](https://github.com/If-Then-andSometimesElse)
 - ### **U**
   - [Ujjwal Jha](https://github.com/i-ujjwaljha)
 - ### **V**
+  - [Vikash Kumar](https://github.com/Vikash0122)
 - ### **W**
 - ### **X**
 - ### **Y**
@@ -233,7 +250,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 ***
 <!-- # 📝 Licensed by <img src="https://img.shields.io/github/license/payloadbox/xss-payload-list"> -->
-# Dont't forget to ⭐ the Repository .
+# Don't forget to ⭐ the Repository.
 
 # Created by
 Created with &#129293; by <a href="https://github.com/KapilKumar7" target="_blank">Kapil Kumar</a>
@@ -245,7 +262,7 @@ Created with &#129293; by <a href="https://github.com/KapilKumar7" target="_blan
 ***
 ## Contributors ✨
 
-Thanks to all wonderful people -
+Thanks to all the wonderful people -
 
 <a href = "https://github.com/KapilKumar7/Hacktoberfest2022-masai/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=KapilKumar7/Hacktoberfest2022-masai"/>
