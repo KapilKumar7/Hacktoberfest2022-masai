@@ -193,7 +193,8 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [gono3coding](https://github.com/gono3coding)
   - [Gustavo Higuera Mayoral](https://github.com/GustavoHiguera)
 - ### **H**
-  - [Harsha kaslikar](https://github.com/HKaslikar)  
+  - [Harsha kaslikar](https://github.com/HKaslikar)
+  - [Himanshu Singh Negi](https://github.com/HimanshuSinghNegi) 
 - ### **I**
   - [Ismeet Kour Chhabda](https://github.com/ismeet010)
 - ### **J**
