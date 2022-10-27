@@ -10,7 +10,6 @@ What is it? Click on the poster below to watch the video for more details 📽
 
 ## Register for Hacktober2022 event - https://hacktoberfest.com/
 
-
 ## Hacktoberfest Practice Pull Requests
 
 Repository for you to raise a Pull Request to **practice** open-source! 🎉
@@ -148,7 +147,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 
 - **To find out about how to fix a Git Conflict, go to [GitHub Docs - Resolve Merge Conflict](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github)**
 
-- You can also ask for help in the Hacktoberfest [Discord server](https://discord.gg/hacktoberfest) or submit an issue in the 
+- You can also ask for help in the Hacktoberfest [Discord server](https://discord.gg/hacktoberfest) or submit an issue in the
 
 ---
 
@@ -179,74 +178,72 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Ankit Raj](https://github.com/ankytastic)
   - [Arnab Sadhukhan](https://github.com/Arnab11)
   - [Asheesh](https://github.com/asheeshjaat)
-  - [Ashlin Dev](https://github.com/Ashlin21dev)  
-  - [Avinash Pandey](https://github.com/avinash38143) 
-  
-- ### **B** 
+  - [Ashlin Dev](https://github.com/Ashlin21dev)
+  - [Avinash Pandey](https://github.com/avinash38143)
+- ### **B**
   - [Baishali Roy](https://github.com/baishalicode123)
 - ### **C**
   - [Christover R Moa](https://github.com/tophermoa)
   - [cocomo](https://github.com/cocomo29)
   - [CristinaEU1](https://github.com/CristinaEU1)
-- ### **D**  
+- ### **D**
   - [Dakshesh Apkare](https://github.com/Daksheshapkare)
-- ### **E**  
-- ### **F** 
+- ### **E**
+- ### **F**
   - [Flourish Oke](https://github.com/TimTemi)
-- ### **G**  
-  - [Gaurav](https://github.com/GaurKS) 
+- ### **G**
+  - [Gaurav](https://github.com/GaurKS)
   - [gono3coding](https://github.com/gono3coding)
   - [Gustavo Higuera Mayoral](https://github.com/GustavoHiguera)
 - ### **H**
   - [Harsha kaslikar](https://github.com/HKaslikar)
-  - [Himanshu Singh Negi](https://github.com/HimanshuSinghNegi) 
+  - [Himanshu Singh Negi](https://github.com/HimanshuSinghNegi)
 - ### **I**
   - [Ismeet Kour Chhabda](https://github.com/ismeet010)
 - ### **J**
   - [Jatin Kansal](https://github.com/jatinkansal2005)
   - [JoaoVictorG](https://github.com/JoaoVictorG)
-  
-- ### **K**   
+- ### **K**
   - [Kapil Kumar](https://github.com/KapilKumar7)
   - [Kpil Kumar](https://github.com/KpilKumar)
 - ### **L**
   - [Logadheep](https://github.com/Logadheep)
 - ### **M**
+
   - [Mahendra](https://github.com/mahendra2217)
-  - [Mallikarjun Rayar](https://github.com/manojrayar)  
+  - [Mallikarjun Rayar](https://github.com/manojrayar)
   - [Michael Giardina](https://github.com/giardim)
   - [Muhammad Immad](https://github.com/itsimmad)
 
 - ### **N**
+
   - [Nikita Mahamuni](https://github.com/Nikita0509)
-  - [Nishant](https://github.com/Nishant50)  
-  - [Neerav Parakh](https://github.com/NeeravParakh) 
+  - [Nishant](https://github.com/Nishant50)
+  - [Neerav Parakh](https://github.com/NeeravParakh)
 
 - ### **O**
   - [Olga Mozejko](https://github.com/OlgaMozejko)
-- ### **P** 
+- ### **P**
   - [Pavan Kulkarni](https://github.com/pavandeveloperr)
+  - [Pramuditya](https://github.com/pramuditya8)
   - [Prasham Shah](https://github.com/Prasham2407)
   - [Pratyaksha Newalkar](https://github.com/Pratyaksha462)
   - [Prerna Rathore](https://github.com/PrernaRathore10)
   - [Priyanshu Jaiswal](https://github.com/jpriyanshu1406)
-  - [Pronajit Dey](https://github.com/pronajitdey) 
-  
+  - [Pronajit Dey](https://github.com/pronajitdey)
 - ### **Q**
 - ### **R**
   - [Rhoda Pickens](https://github.com/RhodaPickens)
   - [Riya Tyagi](https://github.com/riyatyag-6)
-  - [Rohan Gope](https://github.com/Darkrider0007)  
-    
+  - [Rohan Gope](https://github.com/Darkrider0007)
 - ### **S**
   - [Sanjay](https://github.com/sanjayk0508)
-  - [Shivangi Singh](https://github.com/shivangi1217) 
-  - [Silky Modi](https://github.com/silky-modi22) 
+  - [Shivangi Singh](https://github.com/shivangi1217)
+  - [Silky Modi](https://github.com/silky-modi22)
   - [Soham Dey](https://github.com/IamSohamDey)
   - [Soumik Seal](https://github.com/Soumik8114)
   - [Sujatha Pulagam](https://github.com/Sujatha369)
   - [Swadesh Pal](https://github.com/Swadeshit27)
-  
 - ### **T**
   - [Thomps](https://github.com/If-Then-andSometimesElse)
 - ### **U**
@@ -258,20 +255,22 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - ### **Y**
 - ### **Z**
 
+---
 
-
-***
 <!-- # 📝 Licensed by <img src="https://img.shields.io/github/license/payloadbox/xss-payload-list"> -->
+
 # Don't forget to ⭐ the Repository.
 
 # Created by
+
 Created with &#129293; by <a href="https://github.com/KapilKumar7" target="_blank">Kapil Kumar</a>
 
-<b>Follow <a href="https://github.com/KapilKumar7" target="_blank">Kapil Kumar</a> for more creative things. 
+<b>Follow <a href="https://github.com/KapilKumar7" target="_blank">Kapil Kumar</a> for more creative things.
 
 <br>
 
-***
+---
+
 ## Contributors ✨
 
 Thanks to all the wonderful people -
@@ -279,6 +278,3 @@ Thanks to all the wonderful people -
 <a href = "https://github.com/KapilKumar7/Hacktoberfest2022-masai/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=KapilKumar7/Hacktoberfest2022-masai"/>
 </a>
-
-
- 
