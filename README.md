@@ -239,11 +239,12 @@ A GitHub conflict is when people make changes to the same area or line in a file
   
 - ### **Q**
 - ### **R**
+  - [Rahul Palamarthi](https://github.com/Rahul-Palamarthi)
   - [Rhoda Pickens](https://github.com/RhodaPickens)
   - [Riya Tyagi](https://github.com/riyatyag-6)
   - [Rohan Gope](https://github.com/Darkrider0007)  
   - [Roshan k Jha](https://github.com/iam-roshanj)
-  - [Rahul Palamarthi](https://github.com/Rahul-Palamarthi)
+  
 
 - ### **S**
   - [Sanjay](https://github.com/sanjayk0508)
