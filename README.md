@@ -250,11 +250,13 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Sanjay](https://github.com/sanjayk0508)
   - [Shivangi Singh](https://github.com/shivangi1217) 
   - [Shreya Mishra](https://github.com/Shreya-Lu) 
+  - [Shreya Rajpal](https://github.com/Shreyaar12)
   - [Silky Modi](https://github.com/silky-modi22) 
   - [Soham Dey](https://github.com/IamSohamDey)
   - [Soumik Seal](https://github.com/Soumik8114)
   - [Sujatha Pulagam](https://github.com/Sujatha369)
   - [Swadesh Pal](https://github.com/Swadeshit27)
+
   
 - ### **T**
   - [Thomps](https://github.com/If-Then-andSometimesElse)
